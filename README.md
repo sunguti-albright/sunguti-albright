@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Sunguti Albright
-- 👀 I’m interested in Software Development and AWS Cloud Operations
-- 🌱 I speak Python(Django) and Angular.  I’m currently learning AWS.
+- 👋 Hi, I’m Sunguti Albright, currently working at <a href="https://loita.io/">Abxtract Venture Labs - Loita</a>
+- 👀 I specialize in Software Development and AWS Cloud Operations
+- 🌱 I develop web applications using Angular. I’m currently learning AWS.
 - 💞️ I'm available for collaboration on any projects, side or company projects.
 - 📫 How to reach me: sungutialbright@gmail.com
 
