@@ -7,6 +7,7 @@
 - 🌱 I develop web applications using Angular. I’m currently learning AWS.
 - 💞️ I'm available for collaboration on any projects, side or company projects.
 - 📫 How to reach me: sungutialbright@gmail.com
+- Connect with me on LinkedIn: https://www.linkedin.com/in/albright-sunguti/
 
 <center>
   <table>
